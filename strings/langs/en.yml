@@ -209,7 +209,6 @@ ping_2 : "🏓 `PONG!`\n⚡ `{resp}` ms\n\n🖥 System Stats:\n{uptime}"
 
 
 # Song
-song_1 : "🔍 Searching For a Song..."
 song_2 : "**Usage:**\n\n/song [Music Name] or [Youtube Link]"
 song_3 : "Live Link Detected. I am not able to download live youtube videos. "
 song_4 : "**🔗Title:**- {0}\n\nSelect the type in which you want to download."
