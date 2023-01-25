@@ -204,8 +204,8 @@ lyrics_3 : "❌ Failed to fetch lyrics😭.\n\n💡**Tried Searching For:** {0}"
 lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam types lyrics search."
 
 #Ping
-ping_1 : "🏓 `PONG!`\n⚡ `{resp}` ms\n\n🖥 System Stats:\n{uptime}"
-ping_2 : "🏓 `PONG!`\n⚡ `{resp}` ms\n\n🖥 System Stats:\n{uptime}"
+ping_1 : "🔥"
+ping_2 : "🔥 Nafrat ✘ Player Is Still Alive \nWith A Ping Of : {1} ms 💞\n\n🎊 Bot's Uptime : {2}\n🎊 CPU Loaded • : {4}\n🎊 RAM Consumption : {5}\n🎊 Used Storage : {3}\n\n🔥 Nafrat ✘ Player Is Running \nWith A Good Ping : {6} ms 💞**""
 
 
 # Song
